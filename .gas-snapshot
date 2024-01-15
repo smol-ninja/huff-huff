@@ -1,0 +1,8 @@
+MathTest:testFuzz_Add(uint256,uint256) (runs: 256, μ: 8380, ~: 8380)
+MathTest:testFuzz_Div(uint256,uint256) (runs: 256, μ: 8549, ~: 8549)
+MathTest:testFuzz_Mul(uint256,uint256) (runs: 256, μ: 8401, ~: 8543)
+MathTest:testFuzz_Revert_Add(uint256,uint256) (runs: 256, μ: 8644, ~: 8644)
+MathTest:testFuzz_Revert_Div(uint256) (runs: 256, μ: 8263, ~: 8263)
+MathTest:testFuzz_Revert_Mul(uint256,uint256) (runs: 256, μ: 9236, ~: 9236)
+MathTest:testFuzz_Revert_Sub(uint256,uint256) (runs: 256, μ: 8662, ~: 8662)
+MathTest:testFuzz_Sub(uint256,uint256) (runs: 256, μ: 8482, ~: 8482)
